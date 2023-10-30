@@ -2,8 +2,11 @@
 
 This game is basically the first game I ever made.
 
-# Screenshot
-![Image](images/level1.png)
-![Image](images/level2.png)
-![Image](images/level3.png)
+## Screenshot
+Level 1 \
+![Image](images/level1.png) \
+Level 2 \
+![Image](images/level2.png) \
+Level 3 \
+![Image](images/level3.png) \
 
